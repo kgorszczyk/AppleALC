@@ -18,6 +18,12 @@
 				<key>Path</key>
 				<string>layout3.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Id</key>
+				<integer>12</integer>
+				<key>Path</key>
+				<string>layout12.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -26,6 +32,12 @@
 				<integer>3</integer>
 				<key>Path</key>
 				<string>PlatformsM.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Id</key>
+				<integer>12</integer>
+				<key>Path</key>
+				<string>Platforms12.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
@@ -97,6 +109,30 @@
 			<key>Count</key>
 			<integer>2</integer>
 			<key>Find</key>
+			<data>ixnUEQ==</data>
+			<key>MinKernel</key>
+			<integer>13</integer>
+			<key>Name</key>
+			<string>AppleHDA</string>
+			<key>Replace</key>
+			<data>83YdEQ==</data>
+		</dict>
+		<dict>
+			<key>Count</key>
+			<integer>2</integer>
+			<key>Find</key>
+			<data>hBnUEQ==</data>
+			<key>MinKernel</key>
+			<integer>13</integer>
+			<key>Name</key>
+			<string>AppleHDA</string>
+			<key>Replace</key>
+			<data>AAAAAA==</data>
+		</dict>
+		<dict>
+			<key>Count</key>
+			<integer>2</integer>
+			<key>Find</key>
 			<data>gxnUEQ==</data>
 			<key>MaxKernel</key>
 			<integer>15</integer>
@@ -119,6 +155,36 @@
 			<key>Replace</key>
 			<data>AAAAAA==</data>
 		</dict>
+		<dict>
+			<key>Count</key>
+			<integer>2</integer>
+			<key>Find</key>
+			<data>gxnUEQ==</data>
+			<key>MaxKernel</key>
+			<integer>15</integer>
+			<key>MinKernel</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>AppleHDA</string>
+			<key>Replace</key>
+			<data>AAAAAA==</data>
+		</dict>
+		<dict>
+			<key>Count</key>
+			<integer>2</integer>
+			<key>Find</key>
+			<data>ihnUEQ==</data>
+			<key>MinKernel</key>
+			<integer>16</integer>
+			<key>Name</key>
+			<string>AppleHDA</string>
+			<key>Replace</key>
+			<data>AAAAAA==</data>
+		</dict>
+	</array>
+	<key>Revisions</key>
+	<array>
+		<integer>1049089</integer>
 	</array>
 	<key>Vendor</key>
 	<string>IDT</string>

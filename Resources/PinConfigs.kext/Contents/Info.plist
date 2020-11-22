@@ -31,6 +31,29 @@
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>IDT 92HD66C3/65 for HP 500-159eg</string>
+					<key>CodecID</key>
+					<integer>287143667</integer>
+					<key>ConfigData</key>
+					<data>
+					AKccHwCnHUAApx4hAKcfAgCnDAIAtxwgALcd
+					QAC3HhEAtx8BALcMAgDnHD4A5x2QAOceoQDn
+					HwEA5wwCAMccQQDHHZAAxx6hAMcfAgDHDAIA
+					9xxQAPcdMAD3HoEA9x8BAPcMAg==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>12</integer>
+					<key>WakeConfigData</key>
+					<data>AKcMAgC3DAIA5wwCAMcMAgD3DAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
 					<key>CodecID</key>
 					<integer>283902569</integer>
 					<key>Comment</key>
